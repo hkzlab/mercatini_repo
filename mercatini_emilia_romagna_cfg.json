@@ -1,0 +1,127 @@
+{
+    "description": "Fleamarkets in Emilia-Romagna",
+    "version": 0,
+	"tags": [ "fleamarket", "emiliaromagna" ],
+    "events": [
+        {
+            "name": "Portici di Medicina",
+            "contacts": "https://iporticimedicina.it",
+            "position": {
+                "latitude": 44.477836,
+                "longitude": 11.638929,
+                "notes": "Medicina (BO)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 0,
+                "additional_days": [],
+                "months_skip": [ 7, 8 ]
+            }
+        },
+        {
+            "name": "Mercatino di Mirandola",
+			"contacts": "https://www.comune.mirandola.mo.it/",
+            "position": {
+                "latitude": 44.886761,
+                "longitude": 11.066227,
+				"notes": "Mirandola (MO)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 1,
+                "additional_days": [],
+                "months_skip": [ ]
+            }
+        },
+        {
+            "name": "Mercatino di Marzaglia",
+			"contacts": "https://en.marzaglia.it/",
+            "position": {
+                "latitude": 44.634804,
+                "longitude": 10.806924,
+				"notes": "Marzaglia (MO) Camping Caravan"
+            },
+            "recursion": {
+                "anchor_dow": 5,
+                "anchor_ordinal": 1,
+                "additional_days": [],
+                "months_skip": [ 1, 2, 3, 4, 6, 7, 8, 10, 11, 12 ]
+            }
+        },
+        {
+            "name": "Mercatino di Stellata",
+			"contacts": "https://www.prolocostellata.it/",
+            "position": {
+                "latitude": 44.945480, 
+                "longitude": 11.422010,
+				"notes": "Stellata (FE)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 1,
+                "additional_days": [],
+                "months_skip": [ ]
+            }
+        },
+        {
+            "name": "Mercatino di Ferrara",
+			"contacts": "https://www.ferraraterraeacqua.it/",
+            "position": {
+                "latitude": 44.834213,
+                "longitude": 11.618102,
+				"notes": "Ferrara, Corso Porta Reno"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 0,
+                "additional_days": [ -1 ],
+                "months_skip": [ ]
+            }
+        },
+        {
+            "name": "Mercatino di Pieve di Cento",
+			"contacts": "https://www.comune.pievedicento.bo.it/",
+            "position": {
+                "latitude": 44.713193,
+                "longitude": 11.306366,
+				"notes": "Pieve di Cento (BO)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 3,
+                "additional_days": [ ],
+                "months_skip": [ ]
+            }
+        },
+        {
+            "name": "Incanti e Mercanti - Budrio",
+			"contacts": "https://budriowelcome.it/",
+            "position": {
+                "latitude": 44.537192,
+                "longitude": 11.534665,
+				"notes": "Budrio (BO)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 2,
+                "additional_days": [ ],
+                "months_skip": [ ]
+            }
+        },
+        {
+            "name": "Mercatino del tarlo e della ruggine - S. Giorgio di Piano",
+			"contacts": "https://comune.san-giorgio-di-piano.bo.it/",
+            "position": {
+                "latitude": 44.646772,
+                "longitude": 11.374621,
+				"notes": "San Giorgio di Piano (BO)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 2,
+                "additional_days": [ ],
+                "months_skip": [ ]
+            }
+        }
+    ]
+}
