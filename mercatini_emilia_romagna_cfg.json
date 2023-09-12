@@ -1,7 +1,7 @@
 {
     "description": "Fleamarkets in Emilia-Romagna",
     "version": 0,
-	"tags": [ "fleamarket", "emiliaromagna" ],
+	"tags": [ "fleamarket", "emiliaromagna", "italy" ],
     "events": [
         {
             "name": "Portici di Medicina",
