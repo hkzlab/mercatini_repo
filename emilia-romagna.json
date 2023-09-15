@@ -70,7 +70,7 @@
             "position": {
                 "latitude": 44.834213,
                 "longitude": 11.618102,
-                "notes": "Corso Porta Reno, Ferrara"
+                "notes": "Ferrara, Corso Porta Reno"
             },
             "recursion": {
                 "anchor_dow": 6,
@@ -137,6 +137,21 @@
                 "anchor_ordinal": 1,
                 "additional_days": [ -1 ],
                 "months_skip": [ 7, 8 ]
+            }
+        },
+        {
+            "name": "Mercatino dell'Antiquariato - Fontanellato",
+            "contacts": "https://www.fontanellato.org/il-paese/i-mercati/mercatino-dellantiquariato/",
+            "position": {
+                "latitude": 44.882802,
+                "longitude": 10.172622,
+                "notes": "Fontanellato (PR), Rocca San Vitale"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 2,
+                "additional_days": [ ],
+                "months_skip": [ ]
             }
         }
     ]
