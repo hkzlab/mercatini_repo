@@ -168,6 +168,21 @@
                 "additional_days": [],
                 "months_skip": []
             }
+        },
+        {
+            "name": "800 e dintorni - Spilamberto",
+            "contacts": "https://www.comune.spilamberto.mo.it/fiere_sagre_e_mercati/mercato_storico_con_hobbisti__800_e_dintorni_/index.htm",
+            "position": {
+                "latitude": 44.53184,
+                "longitude": 11.02236,
+                "notes": "Spilamberto (MO), Centro storico"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 2,
+                "additional_days": [],
+                "months_skip": [ 6, 7, 8 ]
+            }
         }
     ]
 }
