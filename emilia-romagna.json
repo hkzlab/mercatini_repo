@@ -76,7 +76,7 @@
                 "anchor_dow": 6,
                 "anchor_ordinal": 0,
                 "additional_days": [ -1 ],
-                "months_skip": [ ]
+                "months_skip": [ 8 ]
             }
         },
         {
