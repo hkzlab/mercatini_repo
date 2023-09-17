@@ -150,8 +150,23 @@
             "recursion": {
                 "anchor_dow": 6,
                 "anchor_ordinal": 2,
-                "additional_days": [ ],
-                "months_skip": [ ]
+                "additional_days": [],
+                "months_skip": []
+            }
+        },
+        {
+            "name": "Mercatino del passato - Pavullo",
+            "contacts": "https://www.comune.pavullo-nel-frignano.mo.it/turismo-a-pavullo/scopri-pavullo/sagre-fiere-e-mercati/mercatino-del-passato/",
+            "position": {
+                "latitude": 44.33140,
+                "longitude": 10.83222,
+                "notes": "Pavullo (MO), Piazza Toscanini"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 0,
+                "additional_days": [],
+                "months_skip": []
             }
         }
     ]
