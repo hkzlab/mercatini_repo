@@ -19,6 +19,21 @@
             }
         },
         {
+            "name": "Mercatino delle cose antiche - Casumaro",
+            "contacts": "https://www.comune.cento.fe.it/aree-tematiche/attivita-produttive-commercio-mercati-e-suolo-pubblico/commercio-aree-pubbliche/commercio-fiere-e-mercati/mercatini-e-hobbistica",
+            "position": {
+                "latitude": 44.837757,
+                "longitude": 11.361908,
+                "notes": "Casumaro (FE)"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 0,
+                "additional_days": [],
+                "months_skip": [ ]
+            }
+        },
+        {
             "name": "Mercatino di Mirandola",
             "contacts": "https://www.comune.mirandola.mo.it/",
             "position": {
