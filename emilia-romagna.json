@@ -213,6 +213,21 @@
                 "additional_days": [],
                 "months_skip": []
             }
+        },
+        {
+            "name": "Castro Antiquarium - Castel San Pietro Terme",
+            "contacts": "https://prolococastelsanpietroterme.it/castro-antiquarium - ☎️ 051.6951379",
+            "position": {
+                "latitude": 44.39798,
+                "longitude": 11.58992,
+                "notes": "Castel San Pietro Terme (BO), Centro storico"
+            },
+            "recursion": {
+                "anchor_dow": 6,
+                "anchor_ordinal": 4,
+                "additional_days": [],
+                "months_skip": [ 6, 7, 12 ]
+            }
         }
     ]
 }
